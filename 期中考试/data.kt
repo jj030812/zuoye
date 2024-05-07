@@ -17,14 +17,14 @@ data class Equipment(
 object user {
     val Commodity: List<Commodity> = listOf(
         Commodity(
-            "圣女果",
+            "王大帅",
             1,
             1,
             1,
             "可以",
         ),
         Commodity(
-            "蓝莓",
+            "小帅",
             2,
             2,
             2,
@@ -33,7 +33,7 @@ object user {
     )
     val Equipment: List<Equipment> = listOf(
         Equipment(
-            "榴莲",
+            "中帅",
             2,
             2,
             2,
